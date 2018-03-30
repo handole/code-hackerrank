@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>https://www.pesonamalahayu.com/</loc> 
+    <image:image>
+       <image:loc>https://pesonamalahayu.com/gallery/foto/</image:loc>
+       <image:caption>Pesona Waduk Malahayu</image:caption>
+    </image:image>
+    <video:video>
+      <video:content_loc>
+        https://www.pesonamalahayu.com/gallery/video/
+      </video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">
+        https://www.pesonamalahayu.com/videoplayer.swf?video=123
+      </video:player_loc>
+    </video:video>
+  </url>
+</urlset>
